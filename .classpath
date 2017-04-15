@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="String &amp; Array/CheckAllDigitDifferent/src"/>
+	<classpathentry kind="src" path="String &amp; Array/CheckTwoStringAlike/src"/>
+	<classpathentry kind="src" path="String &amp; Array/ReplaceSpace/src"/>
+	<classpathentry kind="src" path="String &amp; Array/StringZipper/src"/>
+	<classpathentry kind="src" path="String &amp; Array/SubstringChecker/src"/>
+	<classpathentry kind="src" path="String &amp; Array/ZeroCross/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="String &amp; Array/CheckAllDigitDifferent/bin"/>
+</classpath>
